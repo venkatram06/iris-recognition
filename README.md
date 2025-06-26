@@ -45,7 +45,7 @@ iris-recognition/
 └── report.md
 
 📺 Demo Video
-🎥 Click to Watch the Demo on Google Drive(https://drive.google.com/file/d/1Lz_cFqAoyi5376oo_cuvmLF0KdNa-hPa/view)
+🎥 Click to Watch the Demo on Google Drive(https://drive.google.com/open?id=1Hqa4ozrgwriw6GXro34R8i-b-K97zXc3)
 
 ✅ Demo Includes:
 Image Preprocessing & Segmentation
