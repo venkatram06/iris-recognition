@@ -43,6 +43,23 @@ iris-recognition/
 ├── requirements.txt
 ├── README.md
 └── report.md
+📺 Demo Video
+🎥 Click to Watch the Demo on Google Drive
+
+✅ Demo Includes:
+Image Preprocessing & Segmentation
+
+Iris Normalization & Feature Extraction
+
+Cosine Similarity Matching
+
+⚙️ Additional Functionalities (Implemented in Code):
+GUI Interface → python src/gui_app.py
+
+Real-time Webcam Iris Capture → python src/webcam_recognition.py
+
+Blink-based Liveness Detection → python src/liveness_detection.py
+
 
 ## 📦 Setup Instructions
 
