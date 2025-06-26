@@ -38,3 +38,7 @@ def extract_features(image_path, output_path="data/processed/feature_map_live.jp
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     cv2.imwrite(output_path, feature_map)
     print(f"[✅] Feature map saved at: {output_path}")
+
+# ✅ Add this block to run directly
+if __name__ == "__main__":
+    extract_features("data/processed/normalized_iris.jpg")
