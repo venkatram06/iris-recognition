@@ -43,8 +43,9 @@ iris-recognition/
 ├── requirements.txt
 ├── README.md
 └── report.md
+
 📺 Demo Video
-🎥 Click to Watch the Demo on Google Drive
+🎥 Click to Watch the Demo on Google Drive(https://drive.google.com/file/d/1Lz_cFqAoyi5376oo_cuvmLF0KdNa-hPa/view)
 
 ✅ Demo Includes:
 Image Preprocessing & Segmentation
@@ -58,8 +59,7 @@ GUI Interface → python src/gui_app.py
 
 Real-time Webcam Iris Capture → python src/webcam_recognition.py
 
-Blink-based Liveness Detection → python src/liveness_detection.py
-
+Blink-based Liveness Detection → python src/liveness_detection.py   
 
 ## 📦 Setup Instructions
 
@@ -80,5 +80,3 @@ Optional: Run GUI or webcam recognition
 
 👨‍💻 Author
 Venkatramireddy
-📧 venkatramireddyvatrapu3@gmail.com
-🔗 GitHub | LinkedIn
